@@ -1,0 +1,4 @@
+Enhanced Infrastructure and Security Monitoring: Implemented CloudWatch log group backups and archival for non-prod environments, deployed infra alarms for AWS services, and fixed PEN test vulnerabilities in production to improve security and monitoring.
+Improved Deployment Processes: Developed blue-green deployment for Node UI applications and updated the ECS deployment pipeline, enhancing the resilience of system releases.
+Automation and Process Optimization: Automated AMI & Instance refresh solutions and created Jenkins jobs for efficient deployment and log group creation, reducing manual errors and improving control over infrastructure changes.
+Compliance and Documentation: Worked on creating documentation for blue-green node UI and contributed to multiple infrastructure releases, ensuring adherence to best practices and strengthened governance.
