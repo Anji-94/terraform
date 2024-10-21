@@ -1,0 +1,10 @@
+Challenges:
+Scaling and Automation: Implementing ECS Cluster Auto Scaling for PPE/DD/Rewards and automating AMI & Instance refresh solutions presented challenges in ensuring efficient resource usage and minimizing manual interventions.
+Security and Compliance: Fixing and deploying PEN test vulnerabilities in production highlighted challenges in maintaining security compliance. Creating alarms for AWS services and Chef failures also required careful planning to prevent system issues.
+Complex Deployment: Managing blue-green deployments for Node UI and Jenkins jobs involved overcoming challenges related to deployment reliability and reducing downtime during infrastructure changes.
+Log Group Management: Updating the ECS deployment pipeline and deploying CFTs for handling CIDR ranges in ALB and VPC-links required meticulous configuration and testing.
+Coordination of Multiple Releases: Managing end-to-end infrastructure releases in January and September, along with ad-hoc releases, required coordination, independent work, and balancing priorities effectively.
+Speak Up:
+Proactive Issue Resolution: The efforts in deploying infra alarms, PEN test fixes, and automating processes demonstrate a proactive approach to identifying and addressing potential issues early.
+Ownership and Initiative: Taking ownership of critical deployments, log group creation, and bootstrapping domains, as well as documenting processes for blue-green node UI deployment, shows initiative and leadership in improving infrastructure management.
+Cross-Team Collaboration: Handover of AWS infra alarms to other teams and coordinating releases reflect strong collaboration and communication across teams, fostering a culture of openness and shared responsibility.
