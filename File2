@@ -1,0 +1,8 @@
+Completed ECS Cluster Auto Scaling for PPE/DD/Rewards and CloudWatch log group backup in the non-prod environment.
+Created and deployed CloudFormation templates (CFT) for handling multiple CIDR ranges in ALB and VPC-link Jenkins jobs.
+Set up blue-green deployment for Node UI applications and developed infra alarms for AWS services.
+Migrated repayment lambdas to ECS services and deployed log group CFTs for newer ECS services.
+Updated the ECS deployment pipeline with new log group stages and fixed PEN test vulnerabilities in production.
+Worked on automating AMI and Instance refresh solutions via lambda functions.
+Created Chef failure alarms and contributed to January and September infra releases, including various ad-hoc releases.
+Created documentation for blue-green Node UI deployment and supported other infrastructure and automation tasks.
